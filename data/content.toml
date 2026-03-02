@@ -136,5 +136,5 @@ readings = ["vllm"]
 [[classes]]
 lesson = 18
 title = "Memory for AI & NDP"
-leader = "Lab 4: TBD"
+leader = "Lab 4: Nat Rurka"
 readings = ["cent"]
